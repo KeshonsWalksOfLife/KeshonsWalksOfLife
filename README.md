@@ -1,24 +1,25 @@
-# 👋 Hi, I’m Keshon D. Bowman (@KeshonsWalksOfLife)  
-Welcome to my GitHub! I'm a passionate **developer** and **creator**, dedicated to building engaging websites and sharing meaningful stories through design.
+# 👋 What's The Deal My People, I'm Keshon!
+Welcome to my GitHub! 
+
+A passionate **developer** and **creator**, dedicated to building engaging websites and sharing meaningful stories through design.
 
 ---
 
-## 👀 About Me  
-- 💻 **I’m a Web Developer**: I specialize in **HTML**, **CSS**, and **JavaScript**, creating responsive, user-friendly designs.  
-- ✨ **I’m a Designer**: I enjoy crafting visually appealing and functional user interfaces.  
-- 🌎 **Life Explorer**: My journey has taken me from serving in the **U.S. Navy** to pursuing my love for tech and design.  
+- 💻 **I’m a Web Developer**
+- ✨ **I’m a Designer**  
+- 🌎 **Life Explorer**  
 
 ---
 
 ## 🌱 What I’m Learning  
 - 📚 **React.js**: To build dynamic and scalable web apps.  
-- 🔗 **Node.js**: Expanding my skills into backend development.  
+- 🔗 **Spline/3D Graphics**: Expanding my skills into 3D art for more interactivity.  
 - 🎨 **UI/UX Principles**: Making every design intuitive and impactful.  
 
 ---
 
 ## 💞️ Let’s Collaborate  
-- I’m excited to work on **portfolio websites**, **interactive maps**, or any project that combines creativity and functionality.
+- I’m excited to work on any project that combines creativity and functionality.
 
 ---
 
@@ -34,4 +35,4 @@ Welcome to my GitHub! I'm a passionate **developer** and **creator**, dedicated 
 
 ---
 
-### Let’s build something amazing together! 🚀
+### Let’s build something together! 🚀
