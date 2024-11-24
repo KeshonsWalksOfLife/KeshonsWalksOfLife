@@ -23,15 +23,14 @@ Welcome to my GitHub! I'm a passionate **developer** and **creator**, dedicated 
 ---
 
 ## 📫 Contact Me  
-- **Email**: keshonswalksoflife@example.com *(Feel free to update)*  
-- **LinkedIn**: [Keshon D. Bowman](#) *(Add your LinkedIn link)*  
+- **Contact Card**: [Keshon D. Bowman](https://linqapp.com/profile)   
 
 ---
 
 ## 🛠️ Tools I Use  
 - **Languages**: HTML5, CSS3, JavaScript.  
 - **Frameworks**: Bootstrap, React (learning).  
-- **Design Tools**: Figma, Photoshop.  
+- **Design Tools**: Figma, Spline.  
 
 ---
 
