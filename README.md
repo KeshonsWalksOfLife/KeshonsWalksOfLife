@@ -24,7 +24,7 @@ A passionate **developer** and **creator**, dedicated to building engaging websi
 ---
 
 ## 📫 Contact Me  
-- **Contact Card**: [Keshon D. Bowman](https://linqapp.com/profile)   
+- **Contact Card**: [Keshon D. Bowman]([https://linqapp.com/keshon_bowman?r=link))   
 
 ---
 
