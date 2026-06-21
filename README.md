@@ -1,4 +1,6 @@
-# 👋 What's The Deal My People, I'm Keshon. DVouT.
+# 👋 What's The Deal My People, I'm Keshon. 
+
+**DVouT.**
 
 *Working Craft, Chasing Purpose.*
 
